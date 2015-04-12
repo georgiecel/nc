@@ -12,6 +12,7 @@
 			<div class="site-container">
 				<section class="intro site-section">
 					<div class="site-section-inner">
+						<img src="images/profilepicture.jpg" alt="Nicholas Cooke" class="intro-profilepicture">
 						<h1 class="site-title">Hey, I’m <strong>Nicholas Cooke</strong>.</h1>
 						<p>I am a &hellip;</p>
 						<ul class="intro-list">
@@ -57,7 +58,8 @@
 				</section>
 				<footer class="site-footer site-section" role="contentinfo">
 					<div class="site-section-inner">
-					&copy; Nicholas Cooke, <?php echo date('Y');?>.
+						<span class="site-footer-text">&copy; Nicholas Cooke, <?php echo date('Y');?></span>
+						<span>designed &amp; developed with &hearts; by <a href="http://georgieluhur.com" target="_blank">Georgie Luhur</a></span>
 					</div>
 				</footer>
 			</div>

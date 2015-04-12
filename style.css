@@ -16,7 +16,7 @@ html {
 
 body {
 	margin: 0;
-	font: normal 1em/1.5 "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+	font: normal 1em/1.5 "Helvetica Neue Light", "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
 }
 
 h1 {
@@ -52,6 +52,14 @@ a {
 	padding: 20px 30px;
 }
 
+	.intro-profilepicture {
+		display: block;
+		margin: 0 auto 20px;
+		width: 80px;
+		height: 80px;
+		border-radius: 100px;
+	}
+
 	.intro-list {
 		margin: 0;
 		list-style: circle;
@@ -60,7 +68,7 @@ a {
 	}
 
 .resume {
-	background: #fbfbfb;
+	background: #f9f9f9;
 }
 
 	.resume-list dt {
@@ -90,9 +98,13 @@ a {
 }
 
 .site-footer {
-	background: #f3f3f3;
+	background: #f9f9f9;
 	font-size: 0.8em;
 }
+
+	.site-footer-text {
+		display: block;
+	}
 
 @media screen and (min-width: 400px) {
 
@@ -102,7 +114,7 @@ a {
 
 	h2 {
 		font-size: 1.5em;
-	}
+	}	
 
 }
 
@@ -116,14 +128,20 @@ a {
 		padding: 15px 0;
 		max-width: 80%;
 		margin: 0 auto;
-	}	
+	}
+
+	.intro-profilepicture {
+		margin-bottom: 35px;
+		width: 150px;
+		height: 150px;
+	}
 	
 }
 
 @media screen and (min-width: 1000px) {
 
 	.site-section-inner {
-		padding: 25px 0;
+		padding: 35px 0;
 		max-width: 500px;
 		margin: 0 auto;
 	}	
