@@ -51,7 +51,7 @@
 				<section class="contact site-section">
 					<div class="site-section-inner">
 						<h2>Say hello!</h2>
-						<p>Add me <a href="http://au.linkedin.com/cookenick/">on LinkedIn</a>.</p>
+						<p>Add me <a href="http://au.linkedin.com/in/cookenick/">on LinkedIn</a>.</p>
 						<p>I <a href="http://twitter.com/nicholascooke">tweet a bit</a>. (Not enough.)</p>
 						<p>I also have <a href="mailto:nick@nicholascooke.com">lots of emails</a> to reply to. (Join my inbox party.)</p>
 					</div>
