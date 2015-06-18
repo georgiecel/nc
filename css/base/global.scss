@@ -1,0 +1,37 @@
+html {
+	-webkit-font-smoothing: antialiased;
+	color: $body-text;
+	line-height: 1.5;
+}
+
+body {
+	margin: 0;
+	font: normal 1em/1.5 $body-font;
+}
+
+h1 {
+	margin: 15px 0 5px;
+	font: normal 1.4em $heading-font;
+	color: $primary-color;
+	font-weight: 300;
+	strong {
+		font-weight: 500;
+	}
+}
+
+h2 {
+	margin: 20px 0;
+	font: normal 1.2em $heading-font;
+	color: $primary-color;
+}
+
+a {
+	color: $primary-color;
+	font-weight: 500;
+	text-decoration: none;
+	border-bottom: 1px solid $primary-color;
+	&:hover {
+		color: $link-hover;
+		border-bottom: 1px solid $link-hover;
+	}
+}

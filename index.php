@@ -5,7 +5,7 @@
 		<meta charset="utf-8">
 		<meta name="description" content="Nicholas Cooke, Product Manager.">
 		<meta name="viewport" content="initial-scale=1.0, maximum-scale=1, width=device-width">
-		<link rel="stylesheet" href="style.css" type="text/css" media="screen">
+		<link rel="stylesheet" href="style.min.css" type="text/css" media="screen">
 	</head>
 	<body>
 		<div class="site-wrapper">
@@ -51,7 +51,7 @@
 				<section class="contact site-section">
 					<div class="site-section-inner">
 						<h2>Say hello!</h2>
-						<p>Add me <a href="http://au.linkedin.com/pub/nicholas-cooke/23/471/72b/en">on LinkedIn</a>.</p>
+						<p>Add me <a href="http://au.linkedin.com/cookenick/">on LinkedIn</a>.</p>
 						<p>I <a href="http://twitter.com/nicholascooke">tweet a bit</a>. (Not enough.)</p>
 						<p>I also have <a href="mailto:nick@nicholascooke.com">lots of emails</a> to reply to. (Join my inbox party.)</p>
 					</div>

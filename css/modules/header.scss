@@ -1,0 +1,15 @@
+.intro {
+	&-profilepicture {
+		display: block;
+		margin: 0 auto 20px;
+		width: 80px;
+		height: 80px;
+		border-radius: 100px;
+	}
+	&-list {
+		margin: 0;
+		list-style: circle;
+		font-size: 1.1em;
+		line-height: 1.75;
+	}
+}
